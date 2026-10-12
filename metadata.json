@@ -1,0 +1,6 @@
+{
+  "name": "มหาดวง AI",
+  "description": "แอพพลิเคชั่นทำนายดวงชะตาด้วย AI & ไพ่ยิปซี ดูดวงรายวัน 12 ราศี และ AI อะราเคิล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
